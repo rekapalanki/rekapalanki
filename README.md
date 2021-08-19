@@ -3,7 +3,7 @@
 - 🌱 I’m currently updating my Vanilla JavaScript knowledge with Wes Bos with rotating CSS turtles, hoisted regular functions, accept button intersection observer and other useful stuff.
 - 💞️ I’m looking to collaborate on JavaScript and React projects.
 - 📫 You can reach me at reka [dot] palanki [at] gmail [dot] com
-- 🌋 I'm proud to introduce you my great introduction page at kilipuedesign [dot] com
+- 🌋 I'm proud to introduce you my great introduction page at https://kilipuedesign.com/
 
 <!---
 rekapalanki/rekapalanki is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
